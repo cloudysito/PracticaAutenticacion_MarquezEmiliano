@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971380429662",
+    "project_id": "ejemplologin-4437f",
+    "storage_bucket": "ejemplologin-4437f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971380429662:android:96087cc0c7eb624dc2b5cf",
+        "android_client_info": {
+          "package_name": "marquez.emiliano.practicaautenticacion_marqueze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlMoJOe8tddW-pHFS3nkug2GSt2HOAmpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
